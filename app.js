@@ -1,4 +1,5 @@
 var username= prompt ('please enter your username');
+var userAge= prompt ('please enter your age');
 alert ('welcome to my website');
 var timeNow= prompt ('please enter the time');
 if (timeNow >= 12){
@@ -8,5 +9,7 @@ if (timeNow >= 12){
  if (timeNow < 12){
     document.write('good morning')
      document.write ('<img src="https://imgk.timesnownews.com/story/GM.png?tr=w-600,h-450">')};
+     // new comment
+     
      
 
