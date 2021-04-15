@@ -11,6 +11,7 @@ if (timeNow >= 12){
      document.write ('<img src="https://imgk.timesnownews.com/story/GM.png?tr=w-600,h-450">')};
      // new comment
      
+//  hello 
 var favPlace= prompt ('please enter your favourate touristic place in jordan');
 
 while(favPlace !== 'dead sea'&& favPlace !== 'jerash'){
