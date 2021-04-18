@@ -1,0 +1,36 @@
+h1 {
+  text-align: center;
+  color: #021675;
+}
+
+header {
+  background-color: #FF9C8C;
+}
+
+nav ul li {
+  display: inline;
+  margin: 7px
+}
+
+nav ul li a {
+  text-decoration: none;
+}
+
+img: {
+  width: 100%;
+
+}
+
+p {
+  background-color: #FF9C8C;
+}
+
+body {
+  background-color: #031A8C;
+}
+
+footer {
+  text-align: center;
+  border: 1px solid #021675;
+  color: white;
+}
